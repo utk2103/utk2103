@@ -1,4 +1,4 @@
-[![An image of @utk2103's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utk2103)](https://holopin.io/@utk2103)
+
 <h1 align="center">Hi 👋, I'm Utkarsh Upadhyay</h1>
 <h3 align="center">A passionate Web developer and Machine learning enthusiast.</h3>
 <p align="center">
