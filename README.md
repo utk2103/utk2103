@@ -10,10 +10,10 @@
   "mindset":     "System thinker. Aggressive builder. Creative executor.",
 }
 
->>> utk.philosophy()
-"Everything is cause, effect, and leverage. I find the leverage."
+>>> utkarsh.philosophy()
+"Everything is cause, effect, and leverage. So find the leverage."
 
->>> utk.current_mode()
+>>> utkarsh.current_mode()
 ⚡ Building
 ```
 
@@ -101,7 +101,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=utk2103&theme=tokyonight&hide_border=true" />
 
 <br/>
-
 </div>
 
 ---
